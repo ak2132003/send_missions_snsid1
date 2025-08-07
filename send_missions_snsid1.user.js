@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  يرسل المهمات كلها دفعة واحده 
 // @match        *://*.centurygames.com/*
+// @connect      raw.githubusercontent.com
 // @grant        GM_xmlhttpRequest
 // @run-at       document-start
 // ==/UserScript==
