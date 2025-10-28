@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Missions Script Loader (By Dr. Khaled)
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      1.0
-// @description  يرسل المهمات كلها دفعة واحده 
+// @version      1.1
+// @description  يرسل المهمات كلها دفعة واحدة (تحميل الكود من jsDelivr بدل GitHub لتفادي الحظر)
 // @match        *://*.centurygames.com/*
 // @connect      cdn.jsdelivr.net
 // @grant        GM_xmlhttpRequest
